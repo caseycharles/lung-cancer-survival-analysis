@@ -33,7 +33,7 @@ The aim of this project was to identify potential disparities and communicate in
 
 ## 📈 Chart
 
-![Lung Cancer Chart](lung cancer survival by gender.png)
+![Lung Cancer Chart](lung_cancer_survival_by_gender.png)
 
 ---
 
