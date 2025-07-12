@@ -40,9 +40,9 @@ The aim of this project was to identify potential disparities and communicate in
 ## 💬 Key Insight
 
 The 5-year net survival for lung cancer was:
-- **Male:** XX.X%  
-- **Female:** XX.X%  
-- **Persons (combined):** XX.X%
+- **Male:** 17.4%  
+- **Female:** 25%  
+- **Persons (combined):** 21%
 
 While the overall survival rate provides a broad view, disaggregating by gender reveals disparities that may reflect differences in diagnosis stage, smoking prevalence, access to care, or treatment response.
 
